@@ -1,6 +1,0 @@
-Comandos git:
-Para subir un archivo al repo
-git add .
-git status
-git commit -m"hola"
-git push
