@@ -1,2 +1,2 @@
-# Tps_LaboII
-Tps_Laboratorio2
+# Tps_laboratorio_II
+Tps_Laboratorio_II
