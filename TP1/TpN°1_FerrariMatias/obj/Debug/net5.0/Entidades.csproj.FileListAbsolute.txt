@@ -1,0 +1,48 @@
+C:\Users\RTECH\source\repos\Tp_Laboratorio_II\TpN°1_FerrariMatias\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\RTECH\source\repos\Tp_Laboratorio_II\TpN°1_FerrariMatias\bin\Debug\net5.0\Entidades.dll
+C:\Users\RTECH\source\repos\Tp_Laboratorio_II\TpN°1_FerrariMatias\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\RTECH\source\repos\Tp_Laboratorio_II\TpN°1_FerrariMatias\bin\Debug\net5.0\Entidades.pdb
+C:\Users\RTECH\source\repos\Tp_Laboratorio_II\TpN°1_FerrariMatias\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\RTECH\source\repos\Tp_Laboratorio_II\TpN°1_FerrariMatias\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RTECH\source\repos\Tp_Laboratorio_II\TpN°1_FerrariMatias\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\RTECH\source\repos\Tp_Laboratorio_II\TpN°1_FerrariMatias\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\RTECH\source\repos\Tp_Laboratorio_II\TpN°1_FerrariMatias\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\RTECH\source\repos\Tp_Laboratorio_II\TpN°1_FerrariMatias\obj\Debug\net5.0\Entidades.dll
+C:\Users\RTECH\source\repos\Tp_Laboratorio_II\TpN°1_FerrariMatias\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\RTECH\source\repos\Tp_Laboratorio_II\TpN°1_FerrariMatias\obj\Debug\net5.0\Entidades.pdb
+C:\Users\RTECH\source\repos\Tp_Laboratorio_II\TpN°1_LaboII\TpN°1_FerrariMatias\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\RTECH\source\repos\Tp_Laboratorio_II\TpN°1_LaboII\TpN°1_FerrariMatias\bin\Debug\net5.0\Entidades.dll
+C:\Users\RTECH\source\repos\Tp_Laboratorio_II\TpN°1_LaboII\TpN°1_FerrariMatias\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\RTECH\source\repos\Tp_Laboratorio_II\TpN°1_LaboII\TpN°1_FerrariMatias\bin\Debug\net5.0\Entidades.pdb
+C:\Users\RTECH\source\repos\Tp_Laboratorio_II\TpN°1_LaboII\TpN°1_FerrariMatias\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\RTECH\source\repos\Tp_Laboratorio_II\TpN°1_LaboII\TpN°1_FerrariMatias\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RTECH\source\repos\Tp_Laboratorio_II\TpN°1_LaboII\TpN°1_FerrariMatias\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\RTECH\source\repos\Tp_Laboratorio_II\TpN°1_LaboII\TpN°1_FerrariMatias\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\RTECH\source\repos\Tp_Laboratorio_II\TpN°1_LaboII\TpN°1_FerrariMatias\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\RTECH\source\repos\Tp_Laboratorio_II\TpN°1_LaboII\TpN°1_FerrariMatias\obj\Debug\net5.0\Entidades.dll
+C:\Users\RTECH\source\repos\Tp_Laboratorio_II\TpN°1_LaboII\TpN°1_FerrariMatias\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\RTECH\source\repos\Tp_Laboratorio_II\TpN°1_LaboII\TpN°1_FerrariMatias\obj\Debug\net5.0\Entidades.pdb
+C:\Users\RTECH\Desktop\PDF UTN\Recuperatorios\TpN°1\TpN°1_FerrariMatias\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\RTECH\Desktop\PDF UTN\Recuperatorios\TpN°1\TpN°1_FerrariMatias\bin\Debug\net5.0\Entidades.dll
+C:\Users\RTECH\Desktop\PDF UTN\Recuperatorios\TpN°1\TpN°1_FerrariMatias\bin\Debug\net5.0\Entidades.pdb
+C:\Users\RTECH\Desktop\PDF UTN\Recuperatorios\TpN°1\TpN°1_FerrariMatias\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\RTECH\Desktop\PDF UTN\Recuperatorios\TpN°1\TpN°1_FerrariMatias\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RTECH\Desktop\PDF UTN\Recuperatorios\TpN°1\TpN°1_FerrariMatias\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\RTECH\Desktop\PDF UTN\Recuperatorios\TpN°1\TpN°1_FerrariMatias\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\RTECH\Desktop\PDF UTN\Recuperatorios\TpN°1\TpN°1_FerrariMatias\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\RTECH\Desktop\PDF UTN\Recuperatorios\TpN°1\TpN°1_FerrariMatias\obj\Debug\net5.0\Entidades.dll
+C:\Users\RTECH\Desktop\PDF UTN\Recuperatorios\TpN°1\TpN°1_FerrariMatias\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\RTECH\Desktop\PDF UTN\Recuperatorios\TpN°1\TpN°1_FerrariMatias\obj\Debug\net5.0\Entidades.pdb
+C:\Users\RTECH\Desktop\PDF UTN\Recuperatorios\TpN°1\TpN°1_FerrariMatias\obj\Debug\net5.0\refint\Entidades.dll
+C:\Users\RTECH\Desktop\Tps_LaboII\TP1\TpN°1_FerrariMatias\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\RTECH\Desktop\Tps_LaboII\TP1\TpN°1_FerrariMatias\bin\Debug\net5.0\Entidades.dll
+C:\Users\RTECH\Desktop\Tps_LaboII\TP1\TpN°1_FerrariMatias\bin\Debug\net5.0\Entidades.pdb
+C:\Users\RTECH\Desktop\Tps_LaboII\TP1\TpN°1_FerrariMatias\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\RTECH\Desktop\Tps_LaboII\TP1\TpN°1_FerrariMatias\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RTECH\Desktop\Tps_LaboII\TP1\TpN°1_FerrariMatias\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\RTECH\Desktop\Tps_LaboII\TP1\TpN°1_FerrariMatias\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\RTECH\Desktop\Tps_LaboII\TP1\TpN°1_FerrariMatias\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\RTECH\Desktop\Tps_LaboII\TP1\TpN°1_FerrariMatias\obj\Debug\net5.0\Entidades.dll
+C:\Users\RTECH\Desktop\Tps_LaboII\TP1\TpN°1_FerrariMatias\obj\Debug\net5.0\refint\Entidades.dll
+C:\Users\RTECH\Desktop\Tps_LaboII\TP1\TpN°1_FerrariMatias\obj\Debug\net5.0\Entidades.pdb
+C:\Users\RTECH\Desktop\Tps_LaboII\TP1\TpN°1_FerrariMatias\obj\Debug\net5.0\ref\Entidades.dll
