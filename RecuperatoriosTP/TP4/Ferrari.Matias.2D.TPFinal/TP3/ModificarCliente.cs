@@ -65,6 +65,10 @@ namespace UI
                 {
                     MessageBox.Show("Solo se pueden ingresar numeros en los campos telefono !!!", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 }
+                else if(cmbClases.SelectedIndex == -1 || cmbTurnos.SelectedIndex == -1)
+                {
+                    MessageBox.Show("Se debe elegir una clase y un turno para poder continuar!!!", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                }
                 else
                 {
                     string nombre = txbNombre.Text;
